@@ -20,7 +20,7 @@
 
   #
 
-  <a href="https://naver.com" target="_blank">
+  <a href="블로그 아직 없음" target="_blank">
   <img src="https://img.shields.io/badge/Blog-000000?style=social&logo=naver&logoColor=#03C75A"/></a>
 </div>
 
